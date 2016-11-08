@@ -1,11 +1,11 @@
-Traveling-Budget-Calculator:
+#Traveling-Budget-Calculator:
 
 This project is to design a program that can get the least cost of traveling several cities only once and the corresponding route.
 
 
 
 
-How to run:
+#How to run:
 
 First type following command in terminal: "python crawl_west_prices.py, which will get real time prices between west cities, and prices will be stored in json file.
 
