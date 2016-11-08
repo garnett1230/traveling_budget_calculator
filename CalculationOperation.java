@@ -92,5 +92,4 @@ public class CalculationOperation {
 		travelingPath = path[cityIndex][cities.size()-1];
 		travelingCost = tsp[cityIndex][cities.size()-1];
 	}
-	
 }
