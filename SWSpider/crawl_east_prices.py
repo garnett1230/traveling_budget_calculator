@@ -22,3 +22,4 @@ for x in xrange(0, len(east_test)):
 defer.DeferredList(dfs).addBoth(lambda _: reactor.stop())
 # the script will block here until all crawling jobs are finished
 reactor.run()
+
