@@ -23,3 +23,4 @@ public class ReadPrice {
 		return flightPrice;
 	}
 }
+
