@@ -48,6 +48,7 @@ public class CandidateCities {
 //										{130,187,155,0,252,192},
 //										{169,134,144,176,0,123},
 //										{150,161,122,136,123,0}};
+			
 			map.clear();
 			map.put(0, "Los Angeles");
 			map.put(1, "San Francisco");
